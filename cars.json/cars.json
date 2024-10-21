@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "brand": "Mercedes",
+      "model": "C-Class",
+      "year": 2018,
+      "price": 3500000,
+      "location": "Delhi",
+      "kilometers": 25000,
+      "type": "Sedan",
+      "images": ["car1.jpg", "car2.jpg"]
+    },
+    {
+      "id": 2,
+      "brand": "Toyota",
+      "model": "Corolla",
+      "year": 2016,
+      "price": 1500000,
+      "location": "Mumbai",
+      "kilometers": 45000,
+      "type": "Sedan",
+      "images": ["car3.jpg", "car4.jpg"]
+    }
+  ]
